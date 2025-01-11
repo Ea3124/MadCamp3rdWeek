@@ -21,3 +21,5 @@ venv/
 
 .svelte-kit/
 package
+
+.gen_ai_custom_dataset/
